@@ -1,0 +1,23 @@
+{
+  "name": "realtime-chat",
+  "version": "0.1.0",
+  "description": "a real time chat",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "app",
+    "realtime-chat",
+    "chat",
+    "now.sh"
+  ],
+  "author": "“jesussandrea” <“jesussandrea12@gmail.com”> (“https://jesussandrea12.github.io”)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}
